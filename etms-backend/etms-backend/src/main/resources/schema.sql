@@ -1,0 +1,2 @@
+-- TODO: paste your CREATE DATABASE / CREATE TABLE scripts here
+-- (or run them directly in MySQL Workbench instead of here)
